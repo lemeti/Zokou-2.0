@@ -71,7 +71,7 @@
     "SESSION_ID":
     {
       "description":"veuillez renseigner votre id de session",   
-      "value":"",
+      "value":"Zokou-MD-WHATSAPP-BOT;;;=>eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNkttMG5jZ0VxQWxOYTczT0hwREFtZURFbDdxdTRhd3FMMUIwa3QzVUtWaz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSm5rUlRDc05SVkF6ZHlNVjV4dk9JeGhXelpSemY2RnFSV0xBaGY4a1NBdz0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIySFFRL2ljUmdEZ3hHS3Yya2Z3dUdkekFjSzBsaGhNbTlVcklzVVRKUEhRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiIzeWJRQ1loQXRCRWFJOTY0NW5odU40RGhUSnVyWWgrVTVmWjlTN1hCQkZNPSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IklCdVhEUUp6TGF5R0JIZWRlQ0VrN3hTU0h6cFVUa3lQakJlT0IvOHgxR0U9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IndCQlpjU04wcERuUWJKRTlJNVROb2JvOUoyUXlBSko0d3FNUWJJWlBrbU09In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiNlBEZjZsMTk5WHhxaWJXRmd1VXhmTWMvcXJNQ1dkNzNKZDAyM3NucnFtbz0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMVhOdVZVaWtOcnRtZ0dXZ25LbUcyZFFqOEg3T2RHd3I2WHVvRThJSm9BST0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6ImhPTGFZcmlXUXJCV0dBSWkrOHdhR3E1SkJ5b0hBQ0dISTBBa0tSY2o5VllhTnkwVFpIbVdjUWU4WnZlMTFteHkxTHdIanJTZUVYbnYvVVEzM1RWZGdRPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6MjA4LCJhZHZTZWNyZXRLZXkiOiJ1cmFwRmI0MkZTZnczajdpZW5CWUltNVVsZ0FTK3RnaFBiL3llSU1PWms4PSIsInByb2Nlc3NlZEhpc3RvcnlNZXNzYWdlcyI6W10sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjowLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwicmVnaXN0ZXJlZCI6ZmFsc2UsImFjY291bnQiOnsiZGV0YWlscyI6IkNMTGl1NlFCRU1HWTNNWUdHQU1nQUNnQSIsImFjY291bnRTaWduYXR1cmVLZXkiOiJEa2drMUxxZ1BGT1M4MS8raEZpMHUrMERtWmNoUVhDMngvWGpFT3ZjNm1RPSIsImFjY291bnRTaWduYXR1cmUiOiJpUDZRQlkxKzh0ZE1GbWNVS3J5WVNhczMzQWUvbnZMd0dUY0NSNEI3ak8xSlJFakgwTXdtRjRHdlJ0QjBWS1JBYkxDUW5aUndKcFpXc3RjREIzaEtEQT09IiwiZGV2aWNlU2lnbmF0dXJlIjoiWHpuZ2RHcXY3aG9SUDFOQVAyZ05aazdidkxjaEEyemk4VCtscHlLSGpQRVFYeUwrQTRXV0pRNTMvNUlKWmVySld6UDFKMlMzT09lejYvSUFsNTBmZ0E9PSJ9LCJtZSI6eyJpZCI6IjIzNzY5MTk5MTY1MDoyNEBzLndoYXRzYXBwLm5ldCIsImxpZCI6IjQ2NjAxOTA1NTYxOTU6MjRAbGlkIn0sInNpZ25hbElkZW50aXRpZXMiOlt7ImlkZW50aWZpZXIiOnsibmFtZSI6IjIzNzY5MTk5MTY1MDoyNEBzLndoYXRzYXBwLm5ldCIsImRldmljZUlkIjowfSwiaWRlbnRpZmllcktleSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkJRNUlKTlM2b0R4VGt2TmYvb1JZdEx2dEE1bVhJVUZ3dHNmMTR4RHIzT3BrIn19XSwicGxhdGZvcm0iOiJhbmRyb2lkIiwicm91dGluZ0luZm8iOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJDQVVJQ0E9PSJ9LCJsYXN0QWNjb3VudFN5bmNUaW1lc3RhbXAiOjE3NTg5MjM4NDUsImxhc3RQcm9wSGFzaCI6Im5tM0JiIn0=",
       "required":true
       
     },
@@ -80,14 +80,14 @@
     
     "description": "Votre nom",
     "required": false,
-    "value": "Djalega++"
+    "value": "Goutte D'eau"
   },
     "NUMERO_OWNER":
   {
     
     "description": "Votre numero de telephone; il doit etre dans le format ID+numero",
     "required":false,
-    "value": "22891733300"
+    "value": "237691991650"
   },
     
 
@@ -107,7 +107,7 @@
   {
     "description": "Mettez oui si vous voulez que les message supprimer vous sois envoyez en pv",
     "required": false,
-    "value": "non"
+    "value": "oui"
   }
   },
 
